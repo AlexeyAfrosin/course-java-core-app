@@ -1,0 +1,4 @@
+# Project exclude paths
+/target/
+/course-java-core-app.iml
+/.idea/
